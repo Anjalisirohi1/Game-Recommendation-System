@@ -5,7 +5,7 @@ An AI-powered game recommendation system built with Machine Learning and FastAPI
 ## 👥 Team Members
 - ML Team: [Harsh giri], [Anjali sirohi], [Shazan rafi]
 - Backend Developer: [Shivansh]
-- Frontend Developer: [Adeeb khan]
+- Frontend Developer: [Adeed khan]
 - Designer: [Seema]
 
 ## 🛠️ Tech Stack
